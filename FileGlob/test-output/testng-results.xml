@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2016-05-27T15:00:17Z" finished-at="2016-05-27T15:00:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2016-05-27T15:00:17Z" finished-at="2016-05-27T15:00:17Z">
+      <class name="com.gmail.sanje.bro.chacMool.GlobPatternTest">
+        <test-method status="PASS" signature="testBackslash()[pri:0, instance:com.gmail.sanje.bro.chacMool.GlobPatternTest@1ff8b8f]" name="testBackslash" duration-ms="16" started-at="2016-05-27T11:00:17Z" finished-at="2016-05-27T11:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackslash -->
+        <test-method status="PASS" signature="testQ()[pri:0, instance:com.gmail.sanje.bro.chacMool.GlobPatternTest@1ff8b8f]" name="testQ" duration-ms="1" started-at="2016-05-27T11:00:17Z" finished-at="2016-05-27T11:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQ -->
+        <test-method status="PASS" signature="testQStar()[pri:0, instance:com.gmail.sanje.bro.chacMool.GlobPatternTest@1ff8b8f]" name="testQStar" duration-ms="1" started-at="2016-05-27T11:00:17Z" finished-at="2016-05-27T11:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQStar -->
+        <test-method status="PASS" signature="testRegex()[pri:0, instance:com.gmail.sanje.bro.chacMool.GlobPatternTest@1ff8b8f]" name="testRegex" duration-ms="1" started-at="2016-05-27T11:00:17Z" finished-at="2016-05-27T11:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegex -->
+        <test-method status="PASS" signature="testStar()[pri:0, instance:com.gmail.sanje.bro.chacMool.GlobPatternTest@1ff8b8f]" name="testStar" duration-ms="1" started-at="2016-05-27T11:00:17Z" finished-at="2016-05-27T11:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStar -->
+      </class> <!-- com.gmail.sanje.bro.chacMool.GlobPatternTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
